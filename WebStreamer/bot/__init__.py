@@ -1,3 +1,5 @@
+from pyrogram import Client
+from ..vars import Var
 StreamBot = Client(
     name= 'Web Streamer',
     api_id=Var.API_ID,
