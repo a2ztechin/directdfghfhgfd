@@ -3,3 +3,4 @@ apscheduler
 pyrogram
 python-dotenv
 tgcrypto
+pyrogram==2.0.0
